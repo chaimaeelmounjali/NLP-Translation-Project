@@ -1,0 +1,8 @@
+# Dataset généré
+dataset_final.csv
+
+# Fichiers Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
